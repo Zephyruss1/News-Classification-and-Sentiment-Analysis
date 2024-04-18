@@ -11,7 +11,7 @@ Projede görebileceğiniz işlemler:
 - Veri ön işleme
 - TF-IDF
 - RandomForestClassifier, SVC, LogisticRegression
-- BertTurk ve Turkish-gpt 2 ile yapılan metinler arası benzerlik ölçümü ve başarı oranları hesaplama
+- BertTurk ve Turkish-gpt 2 ile yapılan metinler arası benzerlik ölçümü
 
 ## 📜 Dataset Link
 [Data](https://huggingface.co/datasets/interpress_news_category_tr_lite)
