@@ -18,7 +18,7 @@ Projede görebileceğiniz işlemler:
 
 ## 💬 Notebook Link
 
-[![Open In Colab](https://colab.research.google.com/github/Zephyruss1/News-classification-sentiment-analysis/blob/main/news_classification_and_sentiment_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zephyruss1/News-classification-sentiment-analysis/blob/main/news_classification_and_sentiment_analysis.ipynb)
 ## 📄 License
 
 [Apache License 2.0](https://github.com/Zephyruss1/News-classification-sentiment-analysis/blob/main/LICENSE)
