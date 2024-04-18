@@ -11,7 +11,7 @@ Projede görebileceğiniz işlemler:
 - Veri ön işleme
 - TF-IDF
 - RandomForestClassifier, SVC, LogisticRegression
-- BertTurk ve Turkish-gpt 2 ile yapılan metinler arası benzerlik ölçümü
+- cosmosGPT, cosmosBERT, BERTurk ve bert-base-turkish-sentiment-cased ile yapılan duygu analizi ve haber sınıflandırması için benzerlik ölçümü
 
 ## 📜 Dataset Link
 [Data](https://huggingface.co/datasets/interpress_news_category_tr_lite)
