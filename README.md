@@ -1,5 +1,5 @@
 
-# 🎆 NLP-News-Classification-And-Sentiment-Analysis 🎆
+# 🎆 NLP News Classification And Sentiment Analysis 🎆
 
 This repo produces about NLP Tasks (Turkish)
 
